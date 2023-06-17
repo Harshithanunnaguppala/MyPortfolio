@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Harshitha Nunnaguppala",
-  title: "Student",
+  title: "",
   email: "harshitha.nunnaguppala@gmail.com",
   gitHub: "https://github.com/Harshithanunnaguppala",
   instagram: "",
