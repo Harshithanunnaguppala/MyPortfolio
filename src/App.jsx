@@ -28,11 +28,11 @@ const siteProps = {
   title: "Student",
   email: "harshitha.nunnaguppala@gmail.com",
   gitHub: "https://github.com/Harshithanunnaguppala",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  instagram: "",
+  linkedIn: "https://www.linkedin.com/in/harshitha-nunnaguppala-a31874250/",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
